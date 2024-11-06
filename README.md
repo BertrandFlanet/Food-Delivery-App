@@ -21,7 +21,7 @@
 
  .ipynb:
 Google Colab: Upload directly via the "File" menu or open from Google Drive<br>
-Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb file through the interface
+Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb file through the interface<br>
 Tableau: Open .twb file with [Tableau](https://www.tableau.com/community/public)
 
 . python:<br>
