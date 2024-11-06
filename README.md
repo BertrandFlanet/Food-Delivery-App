@@ -87,7 +87,8 @@ The dataset `food_orders_new_delhi.csv`
 ### **8 - Visualizations**
 
 Plots viz located in:
-&emsp;`results/`
+&emsp;`results/`<br>
+Dashboard available [online](https://public.tableau.com/app/profile/bertrand.flanet/viz/Food_delivery_New_Dehli/Dashboard1?publish=yes).
 
 
 ### **9 - Conclusions**
@@ -96,7 +97,7 @@ Plots viz located in:
 
 ### **10 - Acknowledgement**
 
-Analysis conducted alongside and with the help of Kajetan Hanausek
+Analysis conducted alongside and with the help of [Kajetan Hanausek](https://www.linkedin.com/in/kajetanhanausek/)
 
 ### **11 - Contact**
 
