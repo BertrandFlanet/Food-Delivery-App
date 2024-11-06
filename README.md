@@ -85,13 +85,12 @@ We conducted ANOVA tests to determine significant differences in how various fea
 **Key Findings**<br>
 
 - Customer Acquisition and Retention: The platform exhibits a suboptimal customer-to-restaurant ratio of 1.6, signaling potential issues in customer acquisition or retention strategies.<br>
-<br>
+
 - Order Frequency: Even top-performing restaurants demonstrate low order volumes, with a maximum of 6 orders, indicating significant room for improvement in customer engagement.<br>
-<br>
+
 - Delivery Efficiency: Average delivery times approaching 2 hours may be a critical factor deterring repeat orders and overall customer satisfaction.<br>
-<br>
+
 - Discount Efficacy: While the '15% New User' discount showed statistical significance in impacting revenue, further analysis revealed that it underperforms compared to other discount offers and non-discounted orders in terms of average order value.<br>
-<br>
 <br>
 **Recommendations:**<br>
 
