@@ -61,19 +61,19 @@ Diabetes_Features_Selection/
 └── README.md
 ```
 ### **5 - Data**
-The dataset `food_orders_new_delhi.csv`
+The dataset `food_orders_new_delhi.csv`<br>
 	&emsp;- Order ID<br>
 	&emsp;- Customer ID<br>
 	&emsp;- Restaurant ID<br>
 	&emsp;- Order Date and Time<br>
 	&emsp;- Delivery Date and Time<br>
 	&emsp;- Order Value<br>
-  &emsp;- Delivery Fee'<br>
-  &emsp;- Payment Method<br>
-  &emsp;- Discounts and Offers<br>
-  &emsp;- Commission Fee<br>
-  &emsp;- Payment Processing Fee<br>
-  &emsp;- Refunds/Chargebacks<br>
+  	&emsp;- Delivery Fee'<br>
+  	&emsp;- Payment Method<br>
+  	&emsp;- Discounts and Offers<br>
+  	&emsp;- Commission Fee<br>
+  	&emsp;- Payment Processing Fee<br>
+  	&emsp;- Refunds/Chargebacks<br>
 
 
 ### **6 - Analysis**
@@ -83,24 +83,25 @@ We conducted ANOVA tests to determine significant differences in how various fea
 ### **7 - Results**
 
 **Key Findings**<br>
-Customer Acquisition and Retention: The platform exhibits a suboptimal customer-to-restaurant ratio of 1.6, signaling potential issues in customer acquisition or retention strategies.<br>
+- Customer Acquisition and Retention: The platform exhibits a suboptimal customer-to-restaurant ratio of 1.6, signaling potential issues in customer acquisition or retention strategies.<br>
 <br>
-Order Frequency: Even top-performing restaurants demonstrate low order volumes, with a maximum of 6 orders, indicating significant room for improvement in customer engagement.<br>
+- Order Frequency: Even top-performing restaurants demonstrate low order volumes, with a maximum of 6 orders, indicating significant room for improvement in customer engagement.<br>
 <br>
-Delivery Efficiency: Average delivery times approaching 2 hours may be a critical factor deterring repeat orders and overall customer satisfaction.<br>
+- Delivery Efficiency: Average delivery times approaching 2 hours may be a critical factor deterring repeat orders and overall customer satisfaction.<br>
 <br>
-Discount Efficacy: While the '15% New User' discount showed statistical significance in impacting revenue, further analysis revealed that it underperforms compared to other discount offers and non-discounted orders in terms of average order value.<br>
+- Discount Efficacy: While the '15% New User' discount showed statistical significance in impacting revenue, further analysis revealed that it underperforms compared to other discount offers and non-discounted orders in terms of average order value.<br>
+<br>
 <br>
 **Recommendations:**<br>
-Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
+- Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
 <br>
-Delivery Time Improvement: Implement strategies to reduce delivery times, thereby enhancing customer satisfaction and encouraging repeat orders.<br>
+- Delivery Time Improvement: Implement strategies to reduce delivery times, thereby enhancing customer satisfaction and encouraging repeat orders.<br>
 <br>
-Customer Base Expansion: Develop and execute targeted strategies to increase both the customer base and order frequency.<br>
+- Customer Base Expansion: Develop and execute targeted strategies to increase both the customer base and order frequency.<br>
 <br>
-Data Collection Enhancement: Prioritize the collection of more comprehensive and representative data to enable more robust analysis and insights.<br>
+- Data Collection Enhancement: Prioritize the collection of more comprehensive and representative data to enable more robust analysis and insights.<br>
 <br>
-Advanced Statistical Analysis: Consider conducting further statistical analyses with an expanded dataset to identify significant factors affecting platform performance.<br>
+- Advanced Statistical Analysis: Consider conducting further statistical analyses with an expanded dataset to identify significant factors affecting platform performance.<br>
 
 ### **8 - Visualizations**
 
