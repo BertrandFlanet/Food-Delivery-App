@@ -1,6 +1,6 @@
 ### **1 - Introduction**
 
-
+This comprehensive analysis aimed to identify key correlations between various features to enhance the business model of our food sharing platform. Despite the constraints of a limited dataset, which presented challenges in drawing definitive conclusions, several significant insights emerged. The analysis encompassed data preparation, exploratory data analysis (EDA), hypothesis testing, and the formulation of strategic recommendations.
 
 ### **2 - Table of Contents**
 
@@ -78,11 +78,29 @@ The dataset `food_orders_new_delhi.csv`
 
 ### **6 - Analysis**
 
-
+We conducted ANOVA tests to determine significant differences in how various features affect total order value and commission received. The results indicated that the 'Discounts and Offers' feature, specifically the '15% New User' discount, has a statistically significant impact on revenue. However, this statistical significance does not translate into tangible revenue growth for participating restaurants.
 
 ### **7 - Results**
 
-
+**Key Findings**<br>
+Customer Acquisition and Retention: The platform exhibits a suboptimal customer-to-restaurant ratio of 1.6, signaling potential issues in customer acquisition or retention strategies.<br>
+<br>
+Order Frequency: Even top-performing restaurants demonstrate low order volumes, with a maximum of 6 orders, indicating significant room for improvement in customer engagement.<br>
+<br>
+Delivery Efficiency: Average delivery times approaching 2 hours may be a critical factor deterring repeat orders and overall customer satisfaction.<br>
+<br>
+Discount Efficacy: While the '15% New User' discount showed statistical significance in impacting revenue, further analysis revealed that it underperforms compared to other discount offers and non-discounted orders in terms of average order value.<br>
+<br>
+**Recommendations:**<br>
+Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
+<br>
+Delivery Time Improvement: Implement strategies to reduce delivery times, thereby enhancing customer satisfaction and encouraging repeat orders.<br>
+<br>
+Customer Base Expansion: Develop and execute targeted strategies to increase both the customer base and order frequency.<br>
+<br>
+Data Collection Enhancement: Prioritize the collection of more comprehensive and representative data to enable more robust analysis and insights.<br>
+<br>
+Advanced Statistical Analysis: Consider conducting further statistical analyses with an expanded dataset to identify significant factors affecting platform performance.<br>
 
 ### **8 - Visualizations**
 
@@ -93,7 +111,7 @@ Dashboard available [online](https://public.tableau.com/app/profile/bertrand.fla
 
 ### **9 - Conclusions**
 
-
+While this analysis provides valuable insights into our food sharing platform's current performance, the limited dataset constrains our ability to draw definitive conclusions. Moving forward, it is imperative to address the identified concerns, particularly regarding customer acquisition, order frequency, and delivery efficiency. Additionally, a more comprehensive data collection strategy will be crucial for conducting more in-depth analyses and deriving actionable insights to drive the platform's growth and success.
 
 ### **10 - Acknowledgement**
 
