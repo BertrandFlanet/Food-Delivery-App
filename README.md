@@ -95,13 +95,13 @@ We conducted ANOVA tests to determine significant differences in how various fea
 **Recommendations:**<br>
 
 - Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
-<br>
+
 - Delivery Time Improvement: Implement strategies to reduce delivery times, thereby enhancing customer satisfaction and encouraging repeat orders.<br>
-<br>
+
 - Customer Base Expansion: Develop and execute targeted strategies to increase both the customer base and order frequency.<br>
-<br>
+
 - Data Collection Enhancement: Prioritize the collection of more comprehensive and representative data to enable more robust analysis and insights.<br>
-<br>
+
 - Advanced Statistical Analysis: Consider conducting further statistical analyses with an expanded dataset to identify significant factors affecting platform performance.<br>
 
 ### **8 - Visualizations**
