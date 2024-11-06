@@ -83,6 +83,7 @@ We conducted ANOVA tests to determine significant differences in how various fea
 ### **7 - Results**
 
 **Key Findings**<br>
+
 - Customer Acquisition and Retention: The platform exhibits a suboptimal customer-to-restaurant ratio of 1.6, signaling potential issues in customer acquisition or retention strategies.<br>
 <br>
 - Order Frequency: Even top-performing restaurants demonstrate low order volumes, with a maximum of 6 orders, indicating significant room for improvement in customer engagement.<br>
@@ -93,6 +94,7 @@ We conducted ANOVA tests to determine significant differences in how various fea
 <br>
 <br>
 **Recommendations:**<br>
+
 - Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
 <br>
 - Delivery Time Improvement: Implement strategies to reduce delivery times, thereby enhancing customer satisfaction and encouraging repeat orders.<br>
