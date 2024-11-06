@@ -91,7 +91,7 @@ We conducted ANOVA tests to determine significant differences in how various fea
 - Delivery Efficiency: Average delivery times approaching 2 hours may be a critical factor deterring repeat orders and overall customer satisfaction.<br>
 
 - Discount Efficacy: While the '15% New User' discount showed statistical significance in impacting revenue, further analysis revealed that it underperforms compared to other discount offers and non-discounted orders in terms of average order value.<br>
-<br>
+
 **Recommendations:**<br>
 
 - Refund Process Optimization: Conduct a thorough review of the chargeback and refund processes to mitigate their impact on overall revenue.<br>
